@@ -1,0 +1,5 @@
+# Customers
+Adam_MO,adam,adam@example.com,1234
+Anas_MO,anas,anas@example.com,1111
+# Admins
+Ali_MO,ali,ali@example.com,7777
