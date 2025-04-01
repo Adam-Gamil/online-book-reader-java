@@ -1,6 +1,6 @@
 # 📚 Online Book Reader
 
-A C++ console-based online book reader application that allows users to sign up, log in, read books, and save their reading progress. Admins can also add new books to the library. The app simulates a basic e-reader experience, with user management and book management features.
+A Java console-based online book reader application that allows users to sign up, log in, read books, and save their reading progress. Admins can also add new books to the library. The app simulates a basic e-reader experience, with user management and book management features.
 
 ## 🚀 Features
 
@@ -33,9 +33,7 @@ A C++ console-based online book reader application that allows users to sign up,
 4. **Track Reading Progress:** The app remembers the last page a customer read and the date of the last session.
 5. **Continue Reading:** Customers can resume from where they left off during their next session.
 
-## 💻 Installation and Usage
 
-### Prerequisites
+### Video link: https://youtu.be/EwExWwigsmU?si=1bGNqMIyDr3YT_Cg
 
-Make sure you have a C++ compiler installed on your system (e.g., GCC for Linux/Mac or MinGW for Windows).
 
